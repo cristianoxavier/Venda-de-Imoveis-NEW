@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00b9c0b1-e10d-4780-a278-9b2ae8dc9b83" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Aula_002/hello-world.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_003/comentarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_003/identacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_003/linhas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_003/strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/conversao-de-dados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/dicionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/interpolacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/listas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/mutiplasdefinicoes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_004/variaveis.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_005/operadores-atribuicao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_005/operadores-comparacao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_005/operadores-logicos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_005/tipos-operadores.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_006/condicionais-com-numeros.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_006/condicionais-encadeados.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_006/condicionais-if.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_006/condicionais.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/for-break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/for-dentro-de-for.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/for-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/for-range.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/pass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/while-break.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/while-colecao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_007 - Loops/while-loop.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_008/calculos.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_008/shuffle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_008/uniform.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_009/atualizando-string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_009/escape-characters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_009/strings-in.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_009/strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_010 - Listas/atualizando-lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_010 - Listas/deletando-elementos-lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_010 - Listas/funcoes-lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_010 - Listas/inserindo-elementos-lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_010 - Listas/listas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_010 - Listas/removendo-elementos-lista.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_011 - Tuplas/atualizando-elementos-tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_011 - Tuplas/excluindo-elementos-tupla.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_011 - Tuplas/funcoes-tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_011 - Tuplas/operacoes-tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_011 - Tuplas/tuplas.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_012 - Dicionarios/atualizando-dicionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_012 - Dicionarios/deletando-elementos-dicionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_012 - Dicionarios/dicionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_012 - Dicionarios/funcoes-dicionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_012 - Dicionarios/propriedade-das-chaves-dicionarios.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_012 - Dicionarios/teste-dicionario-dentro-de-dicionario.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_013 - Depurar/debbuger.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aula_014 - Matriz/matriz.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios.7z" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/10.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/11.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/12.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/13.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/14.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/15.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/16 - Feito pelo professor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/16 .py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/18.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exercicios/9.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1q5iv20ev2RFpwfiAob8MrDSW3k" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Campinas-Tech-Talents\flask-swagger\main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask-swagger" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/server" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/server/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00b9c0b1-e10d-4780-a278-9b2ae8dc9b83" name="Default Changelist" comment="" />
+      <created>1616376078572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616376078572</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

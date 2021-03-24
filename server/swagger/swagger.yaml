@@ -1,0 +1,135 @@
+swagger: "2.0"
+info:
+  title: "Swagger Crud"
+  version: "1.0.0"
+
+host: "{{host_with_port}}"
+basePath: "/v1"
+
+schemes:
+  - "https"
+  - "http"
+paths:
+  /proprietarios:
+    get:
+      tags:
+        - "proprietarios"
+      summary: "Endpoint para retornar todos proprietarios"
+      operationId: "get_proprietarios"
+      x-swagger-router-controller: "server.controllers.proprietario_controller"
+      produces:
+        - "application/json"
+      parameters: [ ]
+      responses:
+        200:
+          description: "Sucesso"
+        204:
+          description: "Quando não há proprietarios na base de dados"
+        500:
+          description: "Erro no servidor"
+
+    post:
+      tags:
+        - "proprietarios"
+      summary: "Endpoint para adicionar proprietario"
+      operationId: "post_proprietario"
+      x-swagger-router-controller: "server.controllers.proprietario_controller"
+      produces:
+        - "application/json"
+      consumes:
+        - "application/json"
+      parameters:
+        - name: "body"
+          in: "body"
+          required: True
+          schema:
+            $ref: "#/definitions/ProprietarioInput"
+      responses:
+        200:
+          description: "Sucesso"
+        500:
+          description: "Erro no servidor"
+
+  /clientes:
+    get:
+      tags:
+        - "clientes"
+      summary: "Endpoint para retornar todos clientes"
+      operationId: "get_clientes"
+      x-swagger-router-controller: "server.controllers.cliente_controller"
+      produces:
+        - "application/json"
+      parameters: [ ]
+      responses:
+        200:
+          description: "Sucesso"
+        204:
+          description: "Quando não há clientes na base de dados"
+        500:
+          description: "Erro no servidor"
+    post:
+      tags:
+        - "clientes"
+      summary: "Endpoint para adicionar um cliente"
+      operationId: "post_cliente"
+      x-swagger-router-controller: "server.controllers.cliente_controller"
+      produces:
+        - "application/json"
+      consumes:
+        - "application/json"
+      parameters:
+        - name: "body"
+          in: "body"
+          required: True
+          schema:
+            $ref: "#/definitions/ClienteInput"
+      responses:
+        200:
+          description: "Sucesso"
+        500:
+          description: "Erro no servidor"
+
+
+
+definitions:
+  ProprietarioInput:
+    type: "object"
+    properties:
+      id_proprietario:
+        type: "integer"
+      nm_proprietario:
+        type: "string"
+      cpf_proprietario:
+        type: "string"
+      rg_proprietario:
+        type: "string"
+      data_nascimento:
+        type: "string"
+        format: "date"
+      estado_civil:
+        type: "string"
+      profissao:
+        type: "string"
+
+  ClienteInput:
+    type: "object"
+    properties:
+      nm_cliente:
+        type: "string"
+      cpf_cliente:
+        type: "string"
+      rg_cliente:
+        type: "string"
+      endereco:
+        type: "string"
+      cep:
+        type: "string"
+      uf:
+        type: "string"
+      data_nascimento:
+        type: "string"
+        format: "date"
+      estado_civil:
+        type: "string"
+      profissao:
+        type: "string"
